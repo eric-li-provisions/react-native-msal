@@ -1,5 +1,5 @@
 import { ConfigPlugin } from '@expo/config-plugins';
 declare const withReactNativeMSAL: ConfigPlugin<{
-    androidPackageSignatureHash: string;
+  androidPackageSignatureHash: string;
 }>;
 export default withReactNativeMSAL;

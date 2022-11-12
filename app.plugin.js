@@ -1,1 +1,1 @@
-module.exports = require('./plugin/build/withReactNativeMSAL');
+module.exports = require('./plugin/toBuild/withReactNativeMSAL');
